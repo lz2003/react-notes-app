@@ -1,3 +1,7 @@
+# Note Taking App
+
+My first React app made with hooks. I wanted to learn React, so I created a simple note taking app from scratch using draft-js-wysiwyg rich text editor, local storage to store and retrieve notes and material-ui for basic styling.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
